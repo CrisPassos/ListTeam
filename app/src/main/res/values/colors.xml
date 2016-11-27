@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorCinnabar">#DE433C</color>
+    <color name="colorMatterhorn">#514E4E</color>
+    <color name="colorSeashell">#FCFAF9</color>
+    <color name="colorEbb">#E5E0DE</color>
+    <color name="colorLinkWater">#CED2D4</color>
+    <color name="colorEchoBlue">#AEB5C1</color>
+</resources>

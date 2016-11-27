@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Times APP</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_set">Settings</string>
+
+    <string name="nome">Nome Sobrenome e Silva</string>
+    <string name="email">email.falso@email.com</string>
+    <string name="home">Home</string>
+    <string name="sobre">Sobre</string>
+    <string name="action_sobre">Sobre</string>
+    <string name="action_buscar">Buscar</string>
+    <string name="time">Time</string>
+    <string name="estado">Estado</string>
+    <string name="fundacao">Fundação</string>
+    <string name="times">Times</string>
+
+</resources>
